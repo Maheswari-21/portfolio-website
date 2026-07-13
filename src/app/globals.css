@@ -1,0 +1,18 @@
+@import "tailwindcss";
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  overflow-x: hidden; 
+  scroll-behavior: smooth;
+}
+nextjs-portal,
+#nextjs-__container_build_error__,
+.nextjs-toast-errors-parent,
+[data-nextjs-toast-wrapper],
+div[class*="nextjs"] {
+  display: none !important;
+  visibility: hidden !important;
+  opacity: 0 !important;
+  pointer-events: none !important;
+}
