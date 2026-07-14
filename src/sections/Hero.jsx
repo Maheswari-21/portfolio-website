@@ -23,7 +23,7 @@ export default function Hero() {
             <a href="#contact" className="inline-flex items-center gap-2 bg-[#BC002D] hover:bg-[#9E0022] text-white px-6 py-3 rounded-full font-medium transition duration-300 shadow-lg shadow-[#BC002D]/20 no-underline text-sm">
               Hire Me <ArrowRight size={16} />
             </a>
-            <a href="/Maheswari_CV.pdf" download="Maheswari_CV.pdf" className="inline-flex items-center gap-2 bg-transparent border rounded-full border-gray-700 hover:border-[#BC002D] text-gray-300 hover:text-white px-6 py-3 font-medium transition duration-300 no-underline text-sm">
+            <a href="/Maheswari_A_CV.pdf" download="Maheswari_CV.pdf" className="inline-flex items-center gap-2 bg-transparent border rounded-full border-gray-700 hover:border-[#BC002D] text-gray-300 hover:text-white px-6 py-3 font-medium transition duration-300 no-underline text-sm">
               Download CV <Download size={16} />
             </a>
           </div>
