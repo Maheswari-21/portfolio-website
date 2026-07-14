@@ -45,8 +45,8 @@ export default function Contact() {
             </p>
 
             <div className="space-y-4 font-mono text-sm">
-              <a href="mailto:maheswaria098.com" className="flex items-center gap-3 text-gray-400 hover:text-[#BC002D] transition no-underline">
-                <span className="text-[#BC002D] text-lg">✉</span> maheswaria098.com
+              <a href="mailto:maheswaria098@gmail.com" className="flex items-center gap-3 text-gray-400 hover:text-[#BC002D] transition no-underline">
+                <span className="text-[#BC002D] text-lg">✉</span> maheswaria098@gmail.com
               </a>
 
               <a href="https://github.com/Maheswari-21" target="_blank" rel="noopener noreferrer" className="flex items-center gap-3 text-gray-400 hover:text-[#BC002D] transition no-underline">
